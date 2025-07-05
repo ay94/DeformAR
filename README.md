@@ -8,7 +8,7 @@
 
 DeformAR is organized into two modular libraries:
 
-- **[deformar-extraction](https://github.com/ay94/deformar-extraction)**  
+- **[deformar-extraction](https://github.com/ay94/deformer-extractor)**  
   A Python package for extracting diagnostic signals from both data and model subcomponents after NER fine-tuning. This includes token-level behavioural metrics (e.g., confidence, loss, entropy), as well as structural, lexical, and interaction metrics across the system’s components (e.g., tag inconsistency, tokenisation rate, OOV rates). Fully compatible with HuggingFace `transformers`.
 
 - **[deformar-dashboard](https://github.com/ay94/deformar-dashboard)**  
