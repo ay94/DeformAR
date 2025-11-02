@@ -3,6 +3,8 @@
 DeformAR is a visual analytics and diagnostic framework designed to rethink how Named Entity Recognition (NER) systems are evaluated. It supports multilingual analysis, with case studies in Arabic and English, and enables researchers to explore model and data interactions through interactive, component-based visualizations.
 ---
 **[Demo](https://www.youtube.com/watch?v=bdmWbPoY5-0)** 
+**[Detailed Demo](https://youtu.be/0-BXZw4Ocp0)** 
+
 ## 🧩 Project Structure
 
 DeformAR is organized into two modular libraries:
