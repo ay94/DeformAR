@@ -49,9 +49,3 @@ If you use DeformAR in your work, please cite the following:
 
 This project is licensed under the [Apache License 2.0](LICENSE).
 
----
-
-## 🤝 Acknowledgments
-
-DeformAR was developed as part of the PhD thesis "DeformAR: A Structured Evaluation and Diagnostic Framework for Sequence Labelling" at the University of Sussex. We thank the open-source community and the reviewers of the long paper version for their valuable feedback.
-
